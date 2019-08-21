@@ -1,0 +1,30 @@
+<package>
+	<id>com.infr.appsyncinfr</id>
+	<name>AppSync INFR</name>
+	<version>32.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Enables the ability to install unsigned/fakesigned iOS applications.</shortDescription>
+	<descriptionlist>
+		<description>Enables the ability to install unsigned/fakesigned iOS applications.</description>
+	</descriptionlist>
+	<screenshots>	
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>
