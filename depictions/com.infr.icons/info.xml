@@ -1,0 +1,30 @@
+<package>
+	<id>com.infr.icons</id>
+	<name>INFR Repo Icons</name>
+	<version>1.0</version>
+	<compatibility>
+		<firmware>
+			<miniOS>7.0</miniOS>
+			<otherVersions>unconfirmed</otherVersions>
+		</firmware>
+	</compatibility>
+	<dependencies>
+		<package>mobilesubstrate</package>
+	</dependencies>
+	<shortDescription>Officials INFR Repo Icons</shortDescription>
+	<descriptionlist>
+		<description>Officials INFR Repo Icons</description>
+	</descriptionlist>
+	<screenshots>	
+	</screenshots>
+	<changelog>
+		<change>Initial Release</change>
+	</changelog>
+	<links>
+		<link>
+			<name>/r/jailbreak</name>
+			<url>https://www.reddit.com/r/jailbreak</url>
+			<iconclass>fa fa-reddit</iconclass>
+		</link>
+	</links>
+</package>

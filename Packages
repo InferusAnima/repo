@@ -2,14 +2,14 @@ Package: com.infr.appinstinfr
 Version: 1.1.3
 Architecture: iphoneos-arm
 Maintainer: INFR <InferusAnima@mail.ru>
-Depends: com.infr.appsyncinfr (>= 5.1)
+Depends: com.infr.appsyncinfr (>= 5.1), com.infr.icons
 Conflicts: com.sull.appinstaller
 Filename: ./debs/com.infr.appinstinfr.deb
-Size: 119224
-MD5sum: 439ccee6516564b8a406049de44cd65e
-SHA1: 033536eddf0aec3f73a2c67d1b2bfe01eba4cab1
-SHA256: 97834ae8640f0613c94ef694e954cc953d4e0fa181d9c7622b790d464919abf7
-Section: Utilities
+Size: 119232
+MD5sum: 98b94b80739b0f1f1d8ffa555a3f973a
+SHA1: 21fee91c8383e1dff4d5399520aebaf89fbab9c7
+SHA256: e482b9d6fcf5f69622c6ee2363cb5a5aba09babbd2a58759dbb22161f5c7adf1
+Section: INFRUtilities
 Description: Install IPAs from the command line
 Author: INFR <InferusAnima@mail.ru>
 Depiction: https://inferusanima.github.io/repo/depictions/?p=com.infr.appinstinfr
@@ -20,15 +20,16 @@ Package: com.infr.appsyncinfr
 Version: 32.0
 Architecture: iphoneos-arm
 Maintainer: INFR <InferusAnima@mail.ru>
-Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100)
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), com.infr.icons
 Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178
 Filename: ./debs/com.infr.appsyncinfr.deb
-Size: 48924
-MD5sum: 8034c63ee23966c5267da05fa129427d
-SHA1: 5b0b083b9fe3a98f38e42376379bb5b2d6ebba5b
-SHA256: 70ec98c4e66921f6a9ca2fff4a87b1be09e65ff6a91716300b3b23264369cf21
-Section: Tweaks
+Size: 48926
+MD5sum: 0cdc28c00eb6ec7103bb30ecc5dc607a
+SHA1: 106ff064163575e2f0aa2d5bf93a0f18119a8265
+SHA256: 35e54e5b51625acd7bf11770b238440574472854d1ec77bcdc216caaee3d4f7a
+Section: INFRTweaks
 Description: Enables the ability to install unsigned/fakesigned iOS applications.
 Author: INFR <InferusAnima@mail.ru>
 Depiction: https://inferusanima.github.io/repo/depictions/?p=com.infr.appsyncinfr
 Name: AppSync INFR
+
