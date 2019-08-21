@@ -33,3 +33,18 @@ Author: INFR <InferusAnima@mail.ru>
 Depiction: https://inferusanima.github.io/repo/depictions/?p=com.infr.appsyncinfr
 Name: AppSync INFR
 
+Package: com.infr.icons
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: INFR <InferusAnima@mail.ru>
+Filename: ./debs/com.infr.icons.deb
+Size: 3788
+MD5sum: 5189cc81e4a099369d6bb33b5708224f
+SHA1: daf23347f0ff236d76b616256b04f1cfadd1fd3f
+SHA256: cabaf80f124bf9214de0e1498ce6ebdace69fc4dbcfd49ed913fd29039439825
+Section: INFR
+Description: Officials INFR Repo Icons
+Author: INFR <InferusAnima@mail.ru>
+Depiction: https://inferusanima.github.io/repo/depictions/?p=com.infr.icons
+Name: INFR Repo Icons
+
